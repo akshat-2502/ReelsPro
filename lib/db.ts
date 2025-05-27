@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import { Noto_Sans_Mongolian } from "next/font/google";
 
 const MONGODB_URL = process.env.MONGODB_URL!;
 
